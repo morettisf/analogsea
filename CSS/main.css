@@ -1,0 +1,96 @@
+body {
+	background-color: #3f94e7;
+	font-family: helvetica;
+}
+
+fieldset {
+	display: block;
+	padding: 15px 0 15px 0;
+	margin: 0 auto 0 auto;
+	width: 320px;
+}
+
+.form_whole label {
+	display: block;
+	padding: 15px 0 15px 0;
+	margin: 0 auto 0 auto;
+	width: 320px;
+}
+
+.form_whole input {
+	display: block;
+	padding: 15px 0 15px 0;
+	width: 320px;
+	margin: 0 auto 0 auto;
+	font-size: 1em;
+}
+
+.form_whole {
+	width: 320px;
+	padding: 40px;
+	margin: auto;
+	background-color: white;
+}
+
+fieldset {
+	border: none;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+	color: grey;
+	font-weight: lighter;
+}
+
+header img {
+	display: block;
+	height: 35px;
+	margin: 30px auto;
+}
+
+button {
+	display: block;
+	width: 320px;
+	height: 55px;
+	padding: 15px;
+	margin: 15px auto 0 auto;
+	background-color: #65c470;
+	color: white;
+	border: 2px solid #65c470;
+	border-radius: 3px;
+	font-family: helvetica;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+button:hover {
+	background-color: green;
+	border: 2px solid green;
+}
+
+.form_whole a {
+	color: lightgrey;
+	font-size: 0.75em;
+}
+
+.form_whole p {
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.login p {
+	text-align: center;
+	color: white;
+}
+
+.login a {
+	color: white;
+}
+
+
+
+
+
